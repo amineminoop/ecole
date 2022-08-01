@@ -8,7 +8,7 @@ import {MdOutlinePayment} from 'react-icons/md'
 import {SiGoogleclassroom} from 'react-icons/si'
 
 export default function Home() {
-  
+  const [open, setOpen] = useState(true);
   return (
     <div>
       <Head>
