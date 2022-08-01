@@ -72,7 +72,7 @@ const Sidebar = () => {
                 !open && "scale-0"
               }`}
             >
-            Schooling
+            Payment
             </h1>
           </div>
           <br />
